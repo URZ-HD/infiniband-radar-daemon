@@ -1,6 +1,7 @@
 packages/
 remote_debugging.sh
 config/
+ibdevices.lst
 
 # Created by https://www.gitignore.io/api/c,c++,clion
 
@@ -48,6 +49,7 @@ config/
 *.su
 *.idb
 *.pdb
+*~
 
 # Kernel Module Compile Results
 *.mod*

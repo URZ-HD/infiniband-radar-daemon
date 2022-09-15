@@ -1,0 +1,4 @@
+# created with "ibdev2netdev | grep ib | grep Up" to map ib device for docker-daemons
+node1: mlx4_0 port 1 ==> ib0 (Up)
+node2: mlx4_0 port 1 ==> ib0 (Up)
+node3: mlx5_0 port 1 ==> ib0 (Up)
